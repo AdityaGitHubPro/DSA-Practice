@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Arrayccc {
+public class Main {
 
     public static int getLargest(int numbers[]) {
         int largest = Integer.MIN_VALUE;
